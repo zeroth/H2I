@@ -1,5 +1,7 @@
 H2I
 ===
+
+[![Join the chat at https://gitter.im/zeroth/H2I](https://badges.gitter.im/zeroth/H2I.svg)](https://gitter.im/zeroth/H2I?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 >__Html to Image converter__
 
 Author   : __Abhishek Patil__   
